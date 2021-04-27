@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Davi Rosim, I’m 17 years!
+- 👋 Hi! My name is Davi Rosim, I'm 17 years old, I was born in Brazil. So, my first contact with programming was in the begining of the high school, and immediatly I love it! I'm on my last year on high school, and for the next year I want to be studying Software Engineering in Inatel, that is a great college for engineering in the south of Minas Gerais  
 - 👀 I’m interested in study programming, german and english!
 - 🌱 I’m currently learning Pyhton 3
 - 💞️ I’m looking to collaborate on whatever I can :)
 - 📫 You can reach me on Discord -> muomouomo#7828
+- ✨ I want to improve myself everyday, getting new knowledges about the world of computers and softwares!
