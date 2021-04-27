@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Davi Rosim, I’m 17 years!
+- 👀 I’m interested in study programming, german and english!
+- 🌱 I’m currently learning Pyhton 3
+- 💞️ I’m looking to collaborate on whatever I can :)
+- 📫 You can reach me on Discord -> muomouomo#7828
